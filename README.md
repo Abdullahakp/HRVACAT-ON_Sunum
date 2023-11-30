@@ -4,7 +4,7 @@ Ayrıca gerçek hayata yaklaşmak ve istihdam sürecindeki hazır bulunuşluğu 
 
 Bu projenin tüm hakları ben Abdullah Akpınar'a aittir. Burada projenin ekran resimlerini ve kaynak kodlardan bazı kod parçalarını aşağıda görebilirsiniz.
 
-PROJE HAKKINDA TEKNİK BİLGİLER:
+# PROJE HAKKINDA TEKNİK BİLGİLER:
 
 Proje AspNet MVC yapısıyla yazılmıştır.
 
